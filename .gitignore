@@ -1,0 +1,20 @@
+
+
+# Spring Boot local config
+# Backend
+target/
+application-local.properties
+
+# Frontend
+node_modules/
+build/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
